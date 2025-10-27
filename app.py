@@ -36,8 +36,6 @@ prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
-
-
 # chatModel = ChatOllama(model="gemma2", base_url="http://localhost:11434")
 # prompt = ChatPromptTemplate.from_messages([
 #     ("system", system_prompt),
